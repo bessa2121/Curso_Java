@@ -55,15 +55,3 @@ Durante o curso, foram abordados os seguintes tópicos:
 - **Maven/Gradle** (quando aplicável)
 
 ---
-
-## 📂 Estrutura do Repositório
-
-```bash
-📦 dio-java-course
- ┣ 📂 src
- ┃ ┣ 📂 fundamentos
- ┃ ┣ 📂 poo
- ┃ ┣ 📂 colecoes
- ┃ ┗ 📂 projetos
- ┣ 📜 README.md
- ┗ 📜 .gitignore
