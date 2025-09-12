@@ -53,5 +53,3 @@ Durante o curso, foram abordados os seguintes tópicos:
 - **IDE**: IntelliJ IDEA / Eclipse / VS Code
 - **Git & GitHub** para versionamento
 - **Maven/Gradle** (quando aplicável)
-
----
