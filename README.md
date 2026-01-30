@@ -1,4 +1,4 @@
-# ☕ Curso de Java - DIO
+# ☕ Curso de Java 
 
 Este repositório contém os estudos, exercícios e projetos desenvolvidos durante o **Curso de Java** oferecido pela [Digital Innovation One (DIO)](https://www.dio.me/).  
 O objetivo é consolidar os fundamentos da linguagem Java e aplicar boas práticas de programação.
@@ -88,16 +88,6 @@ Durante o curso, foram abordados os seguintes tópicos:
 [3] "Java Comparator and Comparable - Baeldung." Baeldung. Disponível em: https://www.baeldung.com/java-comparator-comparable.
 
 [4] "Java™ Platform, Standard Edition 17 API Specification - Class Collections." Oracle. Disponível em: https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/util/Collections.html.
-
----
-Se você preferir usar o protocolo SSH para comunicação com o repositório, siga as etapas abaixo:
-
-1. Abra o terminal ou prompt de comando.
-2. Navegue até o diretório do projeto.
-3. Execute o seguinte comando para mudar a URL remota para SSH:
-
-   ```shell
-   git remote set-url origin git@github.com:cami-la/collections-java-api-2023.git
 
 ### Dúvidas e Suporte
 
