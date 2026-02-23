@@ -91,4 +91,4 @@ Durante o curso, foram abordados os seguintes tópicos:
 
 ### Dúvidas e Suporte
 
-Caso você tenha alguma dúvida, problema ou sugestão, fique à vontade para abrir uma issue no repositório. Espero conseguir te ajudar! (:
+Caso você tenha alguma dúvida, problema ou sugestão, fique à vontade para abrir uma issue no repositório. Espero conseguir te ajudar!
